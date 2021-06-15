@@ -93,9 +93,5 @@
 		{
 			"name" "2v2 ZoneHunters"
 		}
-		"zh1v1"
-		{
-			"name" "1v1 ZoneHunters"
-		}
 	}
 }
